@@ -1,0 +1,19 @@
+{
+    "name": "Unity.Hotfix",
+    "rootNamespace": "ILRuntimeTest",
+    "references": [
+        "GUID:3463cf8199011dd4cbe12a3286acf545",
+        "GUID:7e7fd97f4fc94e041a2d521dcfab5e74"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
