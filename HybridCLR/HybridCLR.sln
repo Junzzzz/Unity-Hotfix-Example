@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridCLR.Runtime", "HybridCLR.Runtime.csproj", "{a35bb8d7-3f88-35bf-7c41-953d4635f11c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{942c79e0-499e-ee6e-1e6a-60f9b1bf1d30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core.csproj", "{5326c28a-f3ec-15d9-d6d3-ce7d90cbcd54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterStreamingAssets", "BetterStreamingAssets.csproj", "{ffe13a61-bd56-a8b2-529b-230ed7330475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridCLR.Editor", "HybridCLR.Editor.csproj", "{b172a5f0-1424-308c-77db-3af5814e625f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Global.Editor", "Global.Editor.csproj", "{fd9fa748-e32d-6abf-5c0e-948bc9717ab6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterStreamingAssets.Editor", "BetterStreamingAssets.Editor.csproj", "{4673cac5-1875-40a4-94f7-4f950d90abf0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{a35bb8d7-3f88-35bf-7c41-953d4635f11c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a35bb8d7-3f88-35bf-7c41-953d4635f11c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942c79e0-499e-ee6e-1e6a-60f9b1bf1d30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942c79e0-499e-ee6e-1e6a-60f9b1bf1d30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5326c28a-f3ec-15d9-d6d3-ce7d90cbcd54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5326c28a-f3ec-15d9-d6d3-ce7d90cbcd54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ffe13a61-bd56-a8b2-529b-230ed7330475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ffe13a61-bd56-a8b2-529b-230ed7330475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b172a5f0-1424-308c-77db-3af5814e625f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b172a5f0-1424-308c-77db-3af5814e625f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fd9fa748-e32d-6abf-5c0e-948bc9717ab6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fd9fa748-e32d-6abf-5c0e-948bc9717ab6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4673cac5-1875-40a4-94f7-4f950d90abf0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4673cac5-1875-40a4-94f7-4f950d90abf0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
